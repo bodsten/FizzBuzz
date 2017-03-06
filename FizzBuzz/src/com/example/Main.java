@@ -5,10 +5,8 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-<<<<<<< HEAD
-
-=======
 	// write your code here
+        //Teständring
         Scanner input = new Scanner(System.in);
         System.out.println("Ange ett tal");
 
@@ -31,6 +29,5 @@ public class Main {
                 System.out.println("FizzBuzz");
             }
         }
->>>>>>> origin/master
     }
 }
