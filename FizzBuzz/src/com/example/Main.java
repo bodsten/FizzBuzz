@@ -9,6 +9,8 @@ public class Main {
         Scanner input = new Scanner(System.in);
         System.out.println("Ange ett tal");
 
+        //Git is hard for noobs
+
         while (true) {
         String s = input.next();
         if (s == null)
